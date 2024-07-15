@@ -21,15 +21,16 @@ Ceci est un Projet **d'analyse** de donné avec SSAS, Excel et PowerBI basé sur
 ## Modèle Tabulaire
  ![Modele](img/modele.png)
 ## Excel
- 
+  Voici un visuel avec Excel
 ### Pivot Table
  
 ### Histogramme
- 
+ ![Modele](img/EXCEL1.png)
 ## PBI
- 
+Voici quelques visuels Power BI
 ### Visuelle 1
- 
+ ![Modele](img/Kpi.png)
 ### Visuelle 2
- 
+ ![Modele](img/Prevision.png)
 ## Conclusion
+Le but du projet est...
