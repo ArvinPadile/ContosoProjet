@@ -12,6 +12,7 @@
   - [PBI](#pbi)
     - [Visuelle 1](#visuelle-1)
     - [Visuelle 2](#visuelle-2)
+    - [Animation](#animation)
   - [Conclusion](#conclusion)
  
 ## Introduction
@@ -32,5 +33,7 @@ Voici quelques visuels Power BI
  ![Modele](img/Kpi.png)
 ### Visuelle 2
  ![Modele](img/Prevision.png)
+ ### Animation
+ ![Modele](img/AnimationPBI.gif)
 ## Conclusion
 Le but du projet est...
